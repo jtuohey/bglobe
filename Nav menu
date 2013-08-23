@@ -1,0 +1,512 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><Sections>
+	<Section>
+		<SectionName>News</SectionName>
+		<SectionPath>/news</SectionPath>
+		<Url>/</Url>
+		<FlydownDwc>HomePage</FlydownDwc>		
+		<Flydown>
+			<SectionName>National</SectionName>
+			<SectionPath>/news/nation</SectionPath>
+		</Flydown>
+		<Flydown>
+			<SectionName>Politics</SectionName>
+			<SectionPath>/news/politics</SectionPath>	
+		</Flydown>
+		<Flydown>
+			<SectionName>World</SectionName>
+			<SectionPath>/news/world</SectionPath>
+		</Flydown>
+		<Flydown>
+			<SectionName>Health &amp; wellness</SectionName>
+			<SectionPath>/lifestyle/health-wellness</SectionPath>
+			<Url>/lifestyle/health-wellness</Url>			
+		</Flydown>
+		<Flydown>
+			<SectionName>Ideas</SectionName>
+			<SectionPath>/ideas</SectionPath>			
+		</Flydown>
+		<Flydown>
+			<SectionName>Traffic</SectionName>
+			<Url>http://www.boston.com/news/traffic/</Url>
+		</Flydown>
+		<Flydown>
+			<SectionName>Weather</SectionName>
+			<Url>http://www.boston.com/weather/</Url>
+		</Flydown>
+		<Subsection>
+			<SectionName>Nation</SectionName>
+			<SectionPath>/news/nation</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Politics</SectionName>
+			<SectionPath>/news/politics</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>World</SectionName>
+			<SectionPath>/news/world</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Health &amp; Wellness</SectionName>
+			<SectionPath>/lifestyle/health-wellness</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Ideas</SectionName>
+			<SectionPath>/ideas</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Investigations</SectionName>
+			<SectionPath>/news/special-reports/investigations</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Special Reports</SectionName>
+			<SectionPath>/news/special-reports</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Science</SectionName>
+			<SectionPath>/news/science</SectionPath>
+		</Subsection>
+	</Section>
+	<Section>
+		<SectionName>Metro</SectionName>
+		<SectionPath>/metro</SectionPath>
+		<Subsection>
+			<SectionName>Lottery</SectionName>
+			<Url>http://www.boston.com/bostonglobe/numbers/lottery.html</Url>
+		</Subsection>
+		<Subsection>
+			<SectionName>Obituaries</SectionName>
+			<SectionPath>/metro/obituaries</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Globe North</SectionName>
+			<SectionPath>/metro/regionals/north</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Globe South</SectionName>
+			<SectionPath>/metro/regionals/south</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Globe West</SectionName>
+			<SectionPath>/metro/regionals/west</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>68 Blocks</SectionName>
+			<SectionPath>/metro/specials/68blocks</SectionPath>
+		</Subsection>		
+		<Subsection>
+			<SectionName>Spotlight: Driven to the Edge</SectionName>
+			<SectionPath>/metro/specials/taxi</SectionPath>
+		</Subsection>		
+		<Subsection>
+			<SectionName>Terror at the Marathon</SectionName>
+			<SectionPath>/metro/specials/boston-marathon-explosions</SectionPath>
+		</Subsection>	
+		<Flydown>
+			<SectionName>Globe North</SectionName>
+			<SectionPath>/metro/regionals/north</SectionPath>
+		</Flydown>
+		<Flydown>
+			<SectionName>Globe West</SectionName>
+			<SectionPath>/metro/regionals/west</SectionPath>
+		</Flydown>
+		<Flydown>
+			<SectionName>Globe South</SectionName>
+			<SectionPath>/metro/regionals/south</SectionPath>			
+		</Flydown>
+ 		<Flydown>
+ 			<SectionName>Politics</SectionName>
+ 			<SectionPath>/news/politics</SectionPath> 			
+		</Flydown>
+		<Flydown>
+			<SectionName>Obituaries</SectionName>
+			<SectionPath>/metro/obituaries</SectionPath>			
+		</Flydown>
+		<Flydown>
+			<SectionName>Lottery</SectionName>
+			<Url>http://www.boston.com/bostonglobe/numbers/lottery.html</Url>			
+		</Flydown>
+		<Flydown>
+			<SectionName>Traffic</SectionName>
+			<Url>http://www.boston.com/news/traffic</Url>			
+		</Flydown>
+		<Flydown>
+			<SectionName>Weather</SectionName>
+			<Url>http://boston.com/weather/</Url>			
+		</Flydown>
+	 	<Flydown newcolumn="true">
+	 		<SectionName>Yvonne Abraham</SectionName>
+	 		<SectionPath>/staff/abrahamy</SectionPath>	 		
+ 		</Flydown>
+		<Flydown>
+			<SectionName>Kevin Cullen</SectionName>
+			<SectionPath>/staff/cullen</SectionPath>			
+		</Flydown>
+		<Flydown>
+			<SectionName>Brian McGrory</SectionName>
+			<SectionPath>/staff/mcgrory</SectionPath>			
+		</Flydown>
+		<Flydown>
+			<SectionName>Adrian Walker</SectionName>
+			<SectionPath>/staff/walkera</SectionPath>			
+		</Flydown>		
+	</Section>
+	<Section>
+		<SectionName>Arts</SectionName>
+		<SectionPath>/arts</SectionPath>
+		<Subsection>
+			<SectionName>Books</SectionName>
+			<SectionPath>/arts/books</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Movies</SectionName>
+			<SectionPath>/arts/movies</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Music</SectionName>
+			<SectionPath>/arts/music</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Television</SectionName>
+			<SectionPath>/arts/television</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Theater &amp; Art</SectionName>
+			<SectionPath>/arts/theater-art</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Summer Arts Preview</SectionName>
+			<SectionPath>/arts/specials/2013-summer-arts-preview</SectionPath>
+		</Subsection>
+		<!-- <Subsection>
+			<SectionName>Winter Arts Guide</SectionName>
+			<SectionPath>/arts/specials/2012-winter-arts-guide</SectionPath>
+		</Subsection> -->
+
+		<Flydown>
+			<SectionPath>/arts/books</SectionPath>
+			<SectionName>Books</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/lifestyle/food-dining</SectionPath>
+			<SectionName>Food &amp; dining</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/arts/movies</SectionPath>
+			<SectionName>Movies</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/arts/music</SectionPath>
+			<SectionName>Music</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/arts/television</SectionPath>
+			<SectionName>Television</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/arts/theater-art</SectionPath>
+			<SectionName>Theater &amp; art</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/burr</SectionPath>
+			<SectionName>Ty Burr</SectionName>
+		</Flydown>
+		<Flydown newcolumn="true">
+			<SectionPath>/staff/eichlerj</SectionPath>
+			<SectionName>Jeremy Eichler</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/gilbert</SectionPath>
+			<SectionName>Matthew Gilbert</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/morrisw</SectionPath>
+			<SectionName>Wesley Morris</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/reed</SectionPath>
+			<SectionName>James Reed</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/rodman</SectionPath>
+			<SectionName>Sarah Rodman</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/smee</SectionPath>
+			<SectionName>Sebastian Smee</SectionName>
+		</Flydown>
+	</Section>
+	<Section>
+		<SectionName>Business</SectionName>
+		<SectionPath>/business</SectionPath>
+		<Subsection>
+			<SectionName>Markets</SectionName>
+			<Url>http://finance.boston.com/boston/?Page=MarketSummary</Url>
+		</Subsection>
+		<Subsection>
+			<SectionName>Technology</SectionName>
+			<SectionPath>/business/technology</SectionPath>
+		</Subsection>
+				<Subsection>
+			<SectionName>Globe 100</SectionName>
+			<SectionPath>/business/specials/globe-100</SectionPath>
+		</Subsection>
+		<Flydown>
+		<SectionPath>/business/technology</SectionPath>
+		<SectionName>Technology</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>http://finance.boston.com/boston/markets</SectionPath>
+			<SectionName>Markets</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/bray</SectionPath>
+			<SectionName>Hiawatha Bray</SectionName>
+			</Flydown>
+		<Flydown>
+			<SectionPath>/staff/kirsner</SectionPath>
+			<SectionName>Scott Kirsner</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/syre</SectionPath>
+			<SectionName>Steven Syre</SectionName>
+		</Flydown> 	
+	</Section>
+	<Section>
+		<SectionName>Sports</SectionName>
+		<SectionPath>/sports</SectionPath>		
+		<Subsection>
+			<SectionName>Baseball</SectionName>
+			<SectionPath>/sports/baseball</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Football</SectionName>
+			<SectionPath>/sports/football</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Basketball</SectionName>
+			<SectionPath>/sports/basketball</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Hockey</SectionName>
+			<SectionPath>/sports/hockey</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Colleges</SectionName>
+			<SectionPath>/sports/colleges</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Soccer</SectionName>
+			<SectionPath>/sports/soccer</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>High Schools</SectionName>
+			<SectionPath>/sports/high-schools</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>TV, radio schedule</SectionName>
+			<SectionPath>/sports/tv-radio</SectionPath>
+		</Subsection>
+		<Flydown>
+			<SectionPath>/sports/baseball</SectionPath>
+			<SectionName>Baseball</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/sports/football</SectionPath>
+			<SectionName>Football</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/sports/basketball</SectionPath>
+			<SectionName>Basketball</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/sports/hockey</SectionPath>
+			<SectionName>Hockey</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/sports/soccer</SectionPath>
+			<SectionName>Soccer</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/sports/colleges</SectionPath>
+			<SectionName>Colleges</SectionName>
+			</Flydown>
+		<Flydown>
+			<SectionPath>/sports/high-schools</SectionPath>
+			<SectionName>High schools</SectionName>
+		</Flydown>
+		<Flydown newcolumn="true">
+			<SectionPath>/staff/ryanr</SectionPath>
+			<SectionName>Bob Ryan</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/shaughnessy</SectionPath>
+			<SectionName>Dan Shaughnessy</SectionName>
+		</Flydown>
+	</Section>
+	<Section>
+		<SectionName>Opinion</SectionName>
+		<SectionPath>/opinion</SectionPath>
+		<Subsection>
+			<SectionName>Editorials</SectionName>
+			<SectionPath>/opinion/editorials</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Letters</SectionName>
+			<SectionPath>/opinion/letters</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>The Podium</SectionName>
+			<SectionPath>/opinion/thepodium</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Ideas</SectionName>
+			<SectionPath>/ideas</SectionPath>
+		</Subsection>
+		<Flydown>
+			<SectionPath>/ideas</SectionPath>
+			<SectionName>Ideas</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/harmon</SectionPath>
+			<SectionName>Lawrence Harmon</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/jackson</SectionPath>
+			<SectionName>Derrick Z. Jackson</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/jacoby</SectionPath>
+			<SectionName>Jeff Jacoby</SectionName>
+		</Flydown>
+		<Flydown newcolumn="true">
+			<SectionPath>/staff/lehigh</SectionPath>
+			<SectionName>Scot Lehigh</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/wasserman</SectionPath>
+			<SectionName>Dan Wasserman</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/weiss</SectionPath>
+			<SectionName>Joanna Weiss</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/vennochi</SectionPath>
+			<SectionName>Joan Vennochi</SectionName>
+		</Flydown>				
+	</Section>
+	
+	
+	
+	<Section>
+		<SectionName>Lifestyle</SectionName>
+		<SectionPath>/lifestyle</SectionPath>
+		<Subsection>
+			<SectionName>Food &amp; Dining</SectionName>
+			<SectionPath>/lifestyle/food-dining</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Health &amp; Wellness</SectionName>
+			<SectionPath>/lifestyle/health-wellness</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Style</SectionName>
+			<SectionPath>/lifestyle/style</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Travel</SectionName>
+			<SectionPath>/lifestyle/travel</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Names</SectionName>
+			<SectionPath>/lifestyle/names</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Comics</SectionName>
+			<SectionPath>/lifestyle/comics</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Crossword</SectionName>
+			<SectionPath>/lifestyle/crossword</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>Spring Style</SectionName>
+			<SectionPath>/stylemagazine</SectionPath>
+		</Subsection>
+		<Flydown>
+			<SectionPath>/lifestyle/food-dining</SectionPath>
+			<SectionName>Food &amp; dining</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/lifestyle/comics</SectionPath>
+			<SectionName>Comics</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/lifestyle/crossword</SectionPath>
+			<SectionName>Crossword (beta)</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/lifestyle/health-wellness</SectionPath>
+			<SectionName>Health &amp; wellness</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/lifestyle/style</SectionPath>
+			<SectionName>Style</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/lifestyle/travel</SectionPath>
+			<SectionName>Travel</SectionName>
+		</Flydown>				
+		<Flydown newcolumn="true">
+			<SectionPath>/staff/beam</SectionPath>
+			<SectionName>Alex Beam</SectionName>
+		</Flydown>
+		<Flydown>
+			<SectionPath>/staff/first</SectionPath>
+			<SectionName>Devra First</SectionName>
+		</Flydown>
+	 	<Flydown>
+		 	<SectionPath>/staff/hotton</SectionPath>
+		 	<SectionName>Peter Hotton</SectionName>
+	 	</Flydown>		
+	</Section>
+	<Section>
+		<SectionName>Magazine</SectionName>
+		<SectionPath>/magazine</SectionPath>
+		<Subsection>
+			<SectionName>Miss Conduct</SectionName>
+			<SectionPath>/contributors/rabrahams</SectionPath>
+		</Subsection>
+		<Flydown>
+		 	<SectionPath>/staff/piercec</SectionPath>
+		 	<SectionName>Charlie Pierce</SectionName>
+	 	</Flydown>					
+	</Section>
+	<Section>
+		<SectionName>Insiders</SectionName>
+		<SectionPath>/insiders</SectionPath>
+		<Subsection>
+			<SectionName>Back Story</SectionName>
+			<SectionPath>/specials/insiders/back-story</SectionPath>
+		</Subsection>	
+		<Subsection>
+			<SectionName>E-Books</SectionName>
+			<SectionPath>/insiders/ebook</SectionPath>
+		</Subsection>
+		<Subsection>
+			<SectionName>To Grammar's House</SectionName>
+			<SectionPath>/specials/insiders/togrammarshouse</SectionPath>
+		</Subsection>	
+		<Subsection>
+			<SectionName>From the Archives</SectionName>
+			<SectionPath>/specials/insiders/fromthearchives</SectionPath>
+		</Subsection>	
+	</Section>	
+	<Section>
+		<SectionName>Today's Paper</SectionName>
+		<SectionPath>/todayspaper</SectionPath>				
+	</Section>
+</Sections>
