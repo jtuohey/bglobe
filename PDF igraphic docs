@@ -1,0 +1,40 @@
+
+<p:out var="basepath" value="${currentObject.basePath}"/>
+
+<style type="text/css">
+div.article {
+	width: 100%;
+	float: left;
+	margin: 0;
+}
+
+.section-nav {
+	display: none;
+}
+
+.article .aside {
+	display: none;
+}
+
+.DV-container {
+	z-index: 1;
+}
+</style>
+
+
+<p:script src="${basepath}/report.js" />
+
+<p>INTRO TEXT</p>
+ 
+<p>Read the police report:</p>
+
+<div id="DV-viewer-262583-police-report" class="DV-container"></div>
+<script src="http://s3.documentcloud.org/viewer/loader.js"></script>
+<script>
+  DV.load('http://www.documentcloud.org/documents/262583-police-report.js', {
+    width: "100%",
+    height: 700,
+    sidebar: false,
+    container: "#DV-viewer-262583-police-report"
+  });
+</script>
