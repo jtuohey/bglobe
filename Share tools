@@ -1,0 +1,38 @@
+
+
+<style type="text/css">
+CSS:
+.social{
+	margin-top:60px;
+	padding:15px 0;
+	display:inline;
+	vertical-align: bottom;
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+
+.fb-like{
+	margin-right:5px;
+}
+</style>
+
+
+
+
+<span class="social">
+		<span class="fb-like" data-href="YOUR-URL-HERE" data-send="false" data-layout="button_count" data-width="400" data-show-faces="false" data-font="arial"></span>
+
+		<a href="https://twitter.com/share" class="twitter-share-button" data-text="YOUR-HEADLINE-HERE" data-url="YOUR-URL-HERE" data-lang="en">Tweet</a>
+	</span>
+
+    <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=107669255684";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
