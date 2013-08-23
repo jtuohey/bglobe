@@ -1,0 +1,71 @@
+
+
+	<style type="text/css">
+	.topImage { width: 100%; }
+	#image1 { 
+		display: none;
+	}
+
+	#image2 {
+		display: none;
+	}
+		#image3 {
+		display: block;
+	}
+
+	@media screen and (min-width: 321px) {
+		#image2 { 
+			display: block;
+		}
+		#image1 {
+			display: none;
+		}
+		#image3 {
+			display: none;
+		}
+	}
+
+	@media screen and (min-width: 600px) {
+		#image2 { 
+			display: none;
+		}
+		#image1 {
+			display: block;
+		}
+		#image3 {
+			display: none;
+		}
+	}
+	
+.section-nav {
+                display: none;
+}
+
+div.article {
+                width: 100%;
+                margin: 0;
+}
+
+.aside {
+                display: none;
+}
+
+.interactive-body {
+                float: left;
+                width: 100%;
+}
+	</style>
+	<hr />
+	
+
+	<p:out var="basepath" value="${currentObject.basePath}"/>
+<div id="gfx-wrap">
+		<h1></h1>
+		<p></p>
+		<div class="topImage" id="image1"><iframe src="http://livealliance.tv/events/boston-strong/640-boston.html" width="640px" height="360px" scrolling='no' marginwidth='0' marginheight='0' hspace='0' align='middle' frameborder="0"></iframe></div>
+<div class="topImage" id="image2"><iframe src="http://livealliance.tv/events/boston-strong/329-boston.html" width="329px" height="185px" scrolling='no' marginwidth='0' marginheight='0' hspace='0' align='middle' frameborder="0"></iframe></div>
+<div class="topImage" id="image3"><iframe src="http://livealliance.tv/events/boston-strong/329-boston.html" width="300px" height="185px" scrolling='no' marginwidth='0' marginheight='0' hspace='0' align='middle' frameborder="0"></iframe></div>
+
+</div>
+	
+	
