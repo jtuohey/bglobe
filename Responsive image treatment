@@ -1,0 +1,69 @@
+
+
+	<style>
+	.topImage { width: 100%; }
+	#image1 { 
+		display: none;
+	}
+
+	#image2 {
+		display: none;
+	}
+		#image3 {
+		display: block;
+	}
+
+	@media screen and (min-width: 321px) {
+		#image2 { 
+			display: block;
+		}
+		#image1 {
+			display: none;
+		}
+		#image3 {
+			display: none;
+		}
+	}
+
+	@media screen and (min-width: 600px) {
+		#image2 { 
+			display: none;
+		}
+		#image1 {
+			display: block;
+		}
+		#image3 {
+			display: none;
+		}
+	}
+	
+.section-nav {
+                display: none;
+}
+
+div.article {
+                width: 100%;
+                margin: 0;
+}
+
+.aside {
+                display: none;
+}
+
+.interactive-body {
+                float: left;
+                width: 100%;
+}
+	</style>
+	<hr />
+	<hr />
+	<hr />
+	<p:out var="basepath" value="${currentObject.basePath}"/>
+<div id="gfx-wrap">
+		<h1></h1>
+		<p></p>
+	<img class="topImage" src="/rw/${basepath}/patrick1200.jpg" id="image1"/>
+	<img class="topImage" src="/rw/${basepath}/patrick600.jpg" id="image2"/>
+	<img class="topImage" src="/rw/${basepath}/patrick320.jpg" id="image3"/>
+</div>
+	
