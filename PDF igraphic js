@@ -1,0 +1,28 @@
+
+globe.onDefine = function( prop, callback ){
+		var callbackStack 	= [];
+		
+		if( callback ){
+			callbackStack.push( callback );
+		}
+		
+		function checkRun(){
+			if( eval( prop ) ){
+				while( callbackStack[0] && typeof( callbackStack[0] ) === "function" ){
+					callbackStack.shift().call( window );
+				}
+			}
+			else{
+				setTimeout(checkRun, 15); 
+			}
+		};
+		
+		checkRun();
+	};
+	
+
+globe.onDefine("window.jQuery", function() {
+	
+	$(".header").prepend('<h1 class="hed-feat"><b><a href="http://www.bostonglobe.com/metro/specials/spotlight"><img src="http://c.o0bg.com/rw/Boston/2011-2020/WebGraphics/Metro/BostonGlobe.com/2011/10/spotlight_doc/spotlight_small.gif" height="20" alt=""></a></b></h1>');
+	
+});
