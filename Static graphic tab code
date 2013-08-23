@@ -1,0 +1,38 @@
+
+<style type="text/css">
+div.aside { display: none }
+</style>
+
+<style type="text/css">
+
+.section-nav {
+                display: none;
+}
+
+div.article {
+                width: 100%;
+                margin: 0;
+}
+
+.aside {
+                display: none;
+}
+
+.interactive-body {
+                float: left;
+                width: 100%;
+}
+
+</style>
+
+<p:out var="basepath" value="${currentObject.basePath}"/>
+<div id="gfx-wrap">
+		<h1> </h1>
+		<p>Tease (if necessary)</p>
+		<img src="/rw/${basepath}/23sunball.jpg" alt="" />
+</div>
+
+<div class="figcaption">
+<p class="source"> </p>
+<P class="credit"> </P>
+</div>
