@@ -1,0 +1,90 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p:out var="basepath" value="${currentObject.basePath}"/>
+<p:style src="${basepath}/3dparty.css" />
+
+<p><p>A look at third-party candidates in the 2012 presidential election.</p>
+
+<div class="holder clearboth">
+<div class="pic-holder">
+<img class="charpic" src="/rw/${basepath}/img/anderson.jpg">
+<div class="figcaption"><p></p></div>
+</div>
+
+<div class="text-holder">
+<div class="text-hed">Rocky Anderson, Justice, 61</div>
+<p><strong>Background:</strong> Former Democratic two-term mayor of Salt Lake City, Utah.</p>
+<p><strong>Platform:</strong> End foreign wars and war on drugs, single-payer health care for all, campaign finance reform</p>
+</div>
+</div>		
+
+<div class="pmgbreak"></div>
+
+<div class="holder clearboth">
+<div class="pic-holder">
+<img class="charpic" src="/rw/${basepath}/img/goode.jpg">
+<div class="figcaption"><p></p></div>
+</div>
+
+<div class="text-holder">
+<div class="text-hed">Virgil Goode, Constitution, 66</div>
+<p><b>Background:</b> Former Virginia Congressman who switched from Democrat to Republican.</p>
+<p><b>Platform:</b> Moratorium on foreign workers until unemployment falls below 5 percent; Congressional term limits; anti-superPACs; eliminate foreign aid; supports gun rights; anti-abortion; anti gay marriage.</p>
+</div>
+</div>		
+
+<div class="pmgbreak"></div>
+
+<div class="holder clearboth">
+<div class="pic-holder">
+<img class="charpic" src="/rw/${basepath}/img/johnson.jpg">
+<div class="figcaption"><p></p></div>
+</div>
+
+<div class="text-holder">
+<div class="text-hed">Gary Johnson, Libertarian, 59</div>
+<p><b>Background:</b> Former two-term Republican governor of New Mexico</p>
+<p><b>Platform:</b> Legalizing marijuana, pro-choice, same-sex marriage, balancing the federal budget, ending wars.</p>
+</div>
+</div>		
+
+<div class="pmgbreak"></div>
+
+<div class="holder clearboth">
+<div class="pic-holder">
+<img class="charpic" src="/rw/${basepath}/img/stein.jpg">
+<div class="figcaption"><p></p></div>
+</div>
+
+<div class="text-holder">
+<div class="text-hed">Jill Stein, Green, 62</div>
+<p><b>Background:</b> Physician from Lexington, Mass.; ran against Romney for governor in 2002.</p>
+<p><b>Platform:</b> Free public higher education, Medicare for all, same-sex marriage, abolish electoral college</p>
+</div>
+</div>		
+
+
+<div class="figcaption clearboth">
+
+<p class="credit"></p>
+</div>
