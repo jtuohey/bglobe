@@ -1,0 +1,15 @@
+<p:style>html{font-size:100%;line-height:1.625em}#gf *,#gf *:before,#gf *:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}#gf .source-and-credit{width:100%;overflow:hidden;margin-top:1em}#gf .source-and-credit>p{margin:0;text-align:right}#gf .source-and-credit .source span{font-size:.75em;font-weight:700}#gf .source-and-credit .credit span{color:#999;text-transform:uppercase;font-size:.6em;letter-spacing:.05em}@media (min-width:600px){#gf .source-and-credit .source{float:left}#gf .source-and-credit .credit{float:right}}.section-nav{display:none}.article{float:none;width:100%;margin:0}.article>.byline{display:none}.aside{display:none}#gf p.subtitle{font-size:1.25em;font-family:"Miller Headline Roman","Times New Roman",Times,Georgia,serif;margin:0 0 1.5em 0}</p:style>
+<div id='gf'>
+
+
+	<div class='content'>
+		<div id="photocont"></div>
+	</div>
+
+	<div class='source-and-credit'>
+		<p class='source'><span>DATA: SocialSphere, Inc.</span></p>
+		<p class='credit'><span>Globe Staff</span></p>
+	</div>
+
+</div>
+<script>function checkPhoto(){$("#photocont").empty(),$("#photocont").append($("#gf").width()>600?'<img src="http://c.o0bg.com/rw/Boston/2011-2020/WebGraphics/Politics/BostonGlobe.com/2014/07/25cappoll/Poll0725_2000px.png">':'<img src="http://c.o0bg.com/rw/Boston/2011-2020/WebGraphics/Politics/BostonGlobe.com/2014/07/25cappoll/Poll0725_600px.png">')}globe.graphic=function(){checkPhoto(),$(window).resize(function(){checkPhoto()})},globe.onDefine('window.jQuery && $("#gf").length',function(){globe.graphic()});</script>
