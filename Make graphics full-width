@@ -1,0 +1,37 @@
+
+
+The key CSS code is as follows:
+
+.article-body {
+width:100%!important
+}
+
+
+More completely, here's the full CSS code I'm using for the timeline here (http://www.bostonglobe.com/2014/10/21/blackstone-home-where-infants-bodies-found-being-torn-down/YvoMdFpk7g5HPudXctwuSL/igraphic.html?p1=Article_Graphic) that is full width:
+
+<style type="text/css">
+ 
+.article-body {
+width:100%!important
+}
+ 
+.section-nav {
+    display: none;
+}
+ 
+div.article {
+    width: 100%;
+    margin: 0;
+}
+ 
+.aside {
+    display: none;
+}
+ 
+.interactive-body {
+    float: left;
+    width: 100%;
+}
+ 
+ 
+</style>
