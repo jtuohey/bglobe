@@ -1,0 +1,26 @@
+<style type="text/css">
+ 
+.article-body {
+width:100%!important
+}
+ 
+.section-nav {
+    display: none;
+}
+ 
+div.article {
+    width: 100%;
+    margin: 0;
+}
+ 
+.aside {
+    display: none;
+}
+ 
+.interactive-body {
+    float: left;
+    width: 100%;
+}
+ 
+ 
+</style>
